@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Bing_An_8803" />
+        <module name="app_auto_Test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app_auto_Test" target="1.8" />
+      <module name="Bing_An_8803" target="8" />
+      <module name="Rest-Assured" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
